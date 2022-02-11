@@ -1,2 +1,2 @@
-# freecodecamp Intermediate Algorithm 
- Intermediate Algorithm Scripting in freecodecamp JavaScript Algorithms and Data Structures
+# freecodecamp Algorithms
+Algorithm Scripting in freecodecamp JavaScript Algorithms and Data Structures
